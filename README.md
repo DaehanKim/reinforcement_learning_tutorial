@@ -9,4 +9,4 @@ Tutorials on Various reinforcement learning algorithm
    - Thompson sampling algorithm
 
  - Q-learning
-   - [FrozenLake](https://gym.openai.com/envs/FrozenLake-v0/)
+   - [FrozenLake](https://gym.openai.com/envs/FrozenLake-v0/) : I refered to [this post](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/)
